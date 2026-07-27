@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "root",
+    "username": "rootapp",
     "password": "6330",
     "database": "REMINDER_DB_DEV",
     "host": "127.0.0.1",
