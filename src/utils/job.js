@@ -1,6 +1,5 @@
 const cron = require('node-cron');
 const emailService = require('../services/email-service');
-const { resolveContent } = require('nodemailer/lib/shared');
 const sender = require('../config/emailConfig');
 
 /**
